@@ -1,5 +1,7 @@
 # GFX Framework
 
+![Screenshot 2024-02-13 220929](https://github.com/MrWeasel9/Rhombuses-vs-Hexagons-Game/assets/47690910/e46b2301-4cc5-41c1-8d00-deda356f97e4)
+
 ## :sparkles: Introduction
 
 This project is a tiny graphics framework used by the Computer Graphics Department of the Polytechnic University of Bucharest.
